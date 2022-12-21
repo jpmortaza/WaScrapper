@@ -1,17 +1,21 @@
 
-![Logo](https://pandorga.tech/img/WASCRAPPER.png)
+![Logo](https://pandorga.tech/img/WAS.png)
 
 
 # WaScrapper
 
 Extraction and validation of links from WhatsApp groups.
-## Funcionalidades
 
-- Extract links of Google chat.whatsapp.com domain;
-- Extract links from sundry site using Google;
-- Extract links from specific websites.
-- Validate extracted links groups.
-- Validate infinite amount of whatsapp group link
+[&#35;JPMortaza](https://twitter.com/@jpmortaza) Open Source Intelligence tools.
+[![@jpmortaza](https://img.shields.io/twitter/url/https/twitter.com/jpmortaza.svg?style=social&label=Follow%20%40jpmortaza)](https://twitter.com/jpmortaza)
+
+## Function
+
+- Extract group links of Google chat.whatsapp.com domain;
+- Extract group links from various websites using Google;
+- Extract group links from specific websites.
+- Validate extracted group links.
+- Validate infinite amount of whatsapp group links.
 ## Install
 
 ```bash
