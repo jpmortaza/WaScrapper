@@ -1,8 +1,14 @@
 
 # WaScrapper
 
-Scraper for WhatsApp Groups. 
-Validation and extraction of links from WhatsApp groups.
+Extraction and validation of links from WhatsApp groups.
+
+# Function
+- [x] Extract links of Google chat.whatsapp.com domain;
+- [x] Extract links from sundry site using Google;
+- [x] Extract links from specific websites.
+- [x] Validate extracted links groups.
+- [x] Validate infinite amount of whatsapp group links.
 
 # Prerequisites
 * BeautifulSoup
