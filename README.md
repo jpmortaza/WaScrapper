@@ -1,24 +1,32 @@
 
+![Logo](https://pandorga.tech/img/WASCRAPPER.png)
+
+
 # WaScrapper
 
 Extraction and validation of links from WhatsApp groups.
+## Funcionalidades
 
-# Function
-- [x] Extract links of Google chat.whatsapp.com domain;
-- [x] Extract links from sundry site using Google;
-- [x] Extract links from specific websites.
-- [x] Validate extracted links groups.
-- [x] Validate infinite amount of whatsapp group links.
+- Extract links of Google chat.whatsapp.com domain;
+- Extract links from sundry site using Google;
+- Extract links from specific websites.
+- Validate extracted links groups.
+- Validate infinite amount of whatsapp group link
+## Install
 
-# Prerequisites
-* BeautifulSoup
-* re
-* etree
-* requests
+```bash
+  git clone https://github.com/jpmortaza/WaScrapper
+  cd WaScrapper
+  pip install -r requeriments
+  python ./main.py
+```
+    
+## Support
+
+For support, email mortaza@protonmail.com
 
 
+## Licença
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[MIT](https://choosealicense.com/licenses/mit/)
 
