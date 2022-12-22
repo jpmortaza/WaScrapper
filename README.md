@@ -1,6 +1,3 @@
- 
-![image](https://user-images.githubusercontent.com/13164359/209036216-12b08fec-5dcf-43c5-bc17-f04d245e6a5e.png)
-
 # WaScrapper
 
 Extraction and validation of links from WhatsApp groups.
