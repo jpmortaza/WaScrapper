@@ -83,9 +83,7 @@ def scrapperVal():
         soup = BeautifulSoup(webpage.content, "html.parser")
         dom = etree.HTML(str(soup))
         nome_grupo = (dom.xpath('//*[@id="main_block"]/h3')[0].text)
-        arquivo = open("/content/links_validos.txt", "a") 
-
-        grupos = nome_grupo,url
+        arquivo = open("/content/links_valid.csv", "a") 
         if nome_grupo != None: 
-            arquivo.write(f"\n{grupos}") 
+            arquivo.write(f"{nome_grupo},{url}\n") 
         i +=1
